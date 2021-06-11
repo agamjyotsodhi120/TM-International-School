@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: dodgerblue;
+}
+#imp{
+    font-weight:500;
+}
+.text-capitalize{
+    font-weight: bold;
+    font-style:italic;
+}
+
+#heading{
+    font-weight: bold;
+    font-style:italic;
+    
+}
+.p1{
+    text-align: justify;
+    
+}
+.disc{
+    text-align: justify;
+}
+#abs{
+    font-style:italic;
+    font-weight:bold;
+}
+#img1{
+    text-align: center;
+   width:600px;
+    height:200px;
+}
+#p2{
+font-size:20px;
+    
+}
+#motto{
+   font-style:italic;
+    font-weight:bold; 
+}
+#img{
+    width:600px;
+    height:500px;
+}
+#jh{
+    font-weight;700;
+}
+#adm{
+    font-style:italic;
+    font-weight:bold;  
+}
+#img7{
+    width:30px;
+}
+#cnt{
+    font-style:italic;
+    font-weight:bold; 
+}
+#iframe{
+    text-align:right;
+    margin-right:10px;
+}
+.adr{
+    text-align:left;
+    text-align: justify;
+}
